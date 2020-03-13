@@ -1,0 +1,25 @@
+.logo {
+    text-align: center;
+    font-size: 55px;
+    color: #79ad42;
+    margin: 10px;
+}
+span {
+    color: #57ff10;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    font-size: 22px;
+    background: #79ad42;
+    padding: 0px 50px;
+    margin-top: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #ffffff;
+    padding: 9px;
+    display: inline-block;
+    font-weight: 600;
+}

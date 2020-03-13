@@ -1,0 +1,29 @@
+.title {
+    border-bottom: 1px solid gray;
+    padding-bottom: 10px;
+}
+h4 span {
+    color: #3a3afa;
+}
+ol {
+    font-weight: 500;
+    margin: 5px 5px;
+    clear: both;
+}
+img.user-list-img {
+    width: 50xp;
+    width: 50px;
+    border: 1px solid;
+    padding: 2px;
+    float: left;
+    margin-right: 13px;
+    clear: both;
+    margin-bottom: 5px;
+
+}
+span.user-name {
+    color: black;
+    font-weight: 500;
+    margin-top: 16px;
+    display: inline-block;
+}
